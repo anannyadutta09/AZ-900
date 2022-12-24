@@ -14,6 +14,8 @@ There are three cloud service types:
 - IaaS(infrastructure as a service) - most responsibility on the customer
 - PaaS(platform as a service) - somewhere in the middle
 - SaaS(software as a service) - most responsibility on the cloud provider
+- ![image](https://user-images.githubusercontent.com/68387132/209448702-e7b62a52-a373-4eac-9036-018e0639bae5.png)
+
 
 Consumer will always be responsible for:
 - The information and data stored in the cloud

@@ -60,3 +60,10 @@ There are three main cloud models: private, public, and hybrid.
  - Organizations determine where to run their applications
  - Organizations control security, compliance, or legal requirements
 ## Multi cloud
+ - using multiple public cloud providers
+ - using different features from different cloud providers
+ - starting with one cloud provider and migrating to other cloud provider 
+
+ # Consumption based model
+ - Capital expenditure(CapEx) - a one-time, up-front expenditure to purchase or secure tangible resources.
+ - Operational expenditure(OpEx) - pending money on services or products over time 

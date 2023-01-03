@@ -67,3 +67,14 @@ There are three main cloud models: private, public, and hybrid.
  # Consumption based model
  - Capital expenditure(CapEx) - a one-time, up-front expenditure to purchase or secure tangible resources.
  - Operational expenditure(OpEx) - pending money on services or products over time 
+
+Benefits of consumption based model
+- No upfront costs.
+- No need to purchase and manage costly infrastructure that users might not use to its fullest potential.
+- The ability to pay for more resources when they're needed.
+- The ability to stop paying for resources that are no longer needed.
+
+Cloud computing is the delivery of computing services over the internet by using a pay-as-you-go pricing model. We typically pay only for the cloud services we use, which helps us:
+- Plan and manage our operating costs.
+- Run your infrastructure more efficiently.
+- Scale as our business needs change.

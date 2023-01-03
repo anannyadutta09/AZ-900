@@ -40,5 +40,23 @@ There are three main cloud models: private, public, and hybrid.
 ## Private
  - cloud service that is used by a single entity.
  - comes with greater cost and fewer benefits
+ - Organizations have complete control over resources and security
+ - Data is not collocated with other organizations’ data
+ - Hardware must be purchased for startup and maintenance
  - eg. - Onedrive
  ## Public
+ - built, controlled, and maintained by a third-party cloud provider
+ - general public availability
+ - anyone that wants to purchase cloud services can access and use resources
+ - No capital expenditures to scale up
+ - Applications can be quickly provisioned and deprovisioned
+ - Organizations pay only for what they use
+ - Organizations don’t have complete control over resources and security
+ ## Hybrid
+ - computing environment that uses both public and private clouds in an inter-connected environment
+ - can be used to allow a private cloud to surge for increased, temporary demand by deploying public cloud resources
+ - can be used to provide an extra layer of security
+ - Provides the most flexibility
+ - Organizations determine where to run their applications
+ - Organizations control security, compliance, or legal requirements
+## Multi cloud

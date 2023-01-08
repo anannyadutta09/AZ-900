@@ -8,4 +8,9 @@ Azure Fundamentals is a series of three learning paths:
         - [Describe the benefits of using cloud services](/Learning%20Path%201/Benefits%20of%20Cloud%20services/Topic%202.md)
         - [Describe cloud service types](/Learning%20Path%201/Cloud%20Services%20Types/Topic3.md)
 -  LP2: Describe Azure architecture and services
+    - Modules:
+        - Describe the core architectural components of Azure
+        - Describe Azure compute and networking services
+        - Describe Azure storage services
+        - Describe Azure identity, access, and security
 -  LP3: Describe Azure management and governance
